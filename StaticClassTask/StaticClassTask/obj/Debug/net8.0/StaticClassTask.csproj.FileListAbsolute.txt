@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\bin\Debug\net8.0\StaticClassTask.exe
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\bin\Debug\net8.0\StaticClassTask.deps.json
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\bin\Debug\net8.0\StaticClassTask.runtimeconfig.json
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\bin\Debug\net8.0\StaticClassTask.dll
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\bin\Debug\net8.0\StaticClassTask.pdb
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\obj\Debug\net8.0\StaticClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\obj\Debug\net8.0\StaticClassTask.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\obj\Debug\net8.0\StaticClassTask.AssemblyInfo.cs
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\obj\Debug\net8.0\StaticClassTask.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\obj\Debug\net8.0\StaticClassTask.dll
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\obj\Debug\net8.0\refint\StaticClassTask.dll
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\obj\Debug\net8.0\StaticClassTask.pdb
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\obj\Debug\net8.0\StaticClassTask.genruntimeconfig.cache
+C:\Users\pc\source\repos\StaticClassTask\StaticClassTask\obj\Debug\net8.0\ref\StaticClassTask.dll
